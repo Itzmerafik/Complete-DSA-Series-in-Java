@@ -1,3 +1,4 @@
+//To know  the average of the given inputs
 import java.util.Scanner;
 
 public class Practiceqsn1 {
@@ -10,3 +11,4 @@ public class Practiceqsn1 {
         System.out.println(Average);
     }
 }
+
